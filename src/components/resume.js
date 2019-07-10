@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
+import Education from './education';
+import Experience from './experience';
+
 
 class Resume extends Component {
   render(){
@@ -10,7 +13,7 @@ class Resume extends Component {
         <Cell col={4}>
           <div style={{textAlign: 'center'}}>
             <img
-              src="https://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
+              src=""
               alt="avatar"
               style={{height: '200px'}}
                />
@@ -30,7 +33,30 @@ class Resume extends Component {
 
           <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
         </Cell>
-          <Cell className ="resume-right-col" col={8}>Right Side</Cell>
+          <Cell className ="resume-right-col" col={8}>
+          <h2>Education</h2>
+          <Education
+            startYear="SEPT 2018"
+            endYear="SEPT 2020 (on going)"
+            schoolName="BCIT"
+            certification="Bachelor of Technology "
+            certificationDescription1="•	C#, Java and C++ for mobile application development."
+            certificationDescription2="•	Written testes and documentation for software engineering."
+            certificationDescription3="•	WRITE ENCRYPTION AND DECRYPTION PROGRAMS USING PYTHON IN LINUX"
+             />
+
+             <Education
+               startYear="SEPT 2014"
+               endYear="DEC 2016"
+               schoolName="BCIT"
+               certification="Industrial Instrumentation & Control Technician Dipoma "
+               certificationDescription1="•	Studied Network fundamentals and packet analysis "
+               certificationDescription2="•	Write programs for PLCs with set conditions and test them in plant processes loops."
+               certificationDescription3="•	Written Documentation for keeping maintenance records"
+                />
+              <hr style={{borderTop: '3px solid #e22947'}} />
+
+          </Cell>
         </Grid>
       </div>
     )
