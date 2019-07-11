@@ -54,6 +54,16 @@ class Resume extends Component {
                certificationDescription2="•	Write programs for PLCs with set conditions and test them in plant processes loops."
                certificationDescription3="•	Written Documentation for keeping maintenance records"
                 />
+
+                <Education
+                  startYear="SEPT 2012"
+                  endYear="June 2014"
+                  schoolName="Douglas College"
+                  certification="Computer Science And Information Systems Dipoma "
+                  certificationDescription1="•	Studied a wild range of programming languages, C#, Java, C++, JavaScript  "
+                  certificationDescription2="•	Using MySQL to configure databases and apply them in Windows forms"
+                  certificationDescription3="•	Using Excel to import analyzed data and build into reports"
+                   />
               <hr style={{borderTop: '3px solid #e22947'}} />
 
           </Cell>
