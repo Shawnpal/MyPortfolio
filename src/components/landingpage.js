@@ -9,7 +9,7 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-vol-1-5/512/8_Asian_avatar_businessman_chinese-512.png"
+              src= "https://github.com/Shawnpal/MyPortfolio/blob/master/src/components/Imgs/Shawn.png?raw=true"
               alt="avatar"
               className="avatar-img"
               />
@@ -18,7 +18,7 @@ class Landing extends Component {
               <h1>Full Stack Developer</h1>
 
             <hr/>
-            
+
           <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
