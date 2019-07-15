@@ -20,14 +20,16 @@ class About extends Component {
                     <h2 style={{paddingTop: '2em'}}>Shawn Chen</h2>
 
                     <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-                    <p>Junior Programmer</p>
+                    <p  >Junior Programmer</p>
                     <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-                    <h5>Address</h5>
-                    <p>15720 96A Ave</p>
-                    <h5>Phone</h5>
-                    <p>(778) 985-3151</p>
-                    <h5>Email</h5>
-                    <p>ShawnChen1915@gmail.com</p>
+                    <h5>About me</h5>
+                    <p style = {{width:'65%'}}>Hi, and welcome to my MyPortfolio page. I'm a tech tech enthusiast. This means who enjoys creating,
+                     buying, testing, evaluating and learning about new technology. Prehaps that's why I got into IT & software development. When I'm not working
+                     I'm usually working on my own projects. </p>
+                     <p style = {{width:'65%'}}>
+                     I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor Program Wireless and Mobile Development
+                     </p>
+
 
 
           </Cell>
