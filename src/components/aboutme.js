@@ -23,14 +23,13 @@ class About extends Component {
                     <p  >Junior Programmer</p>
                     <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                     <h5>About me</h5>
-                    <p style = {{width:'65%'}}>Hi, and welcome to my MyPortfolio page. I'm a tech tech enthusiast. This means who enjoys creating,
+                    <p style = {{width:'65%'}}>Hi, and welcome to my MyPortfolio page. I'm a tech enthusiast. This means I enjoy creating,
                      buying, testing, evaluating and learning about new technology. Prehaps that's why I got into IT & software development. When I'm not working
                      I'm usually working on my own projects. </p>
                      <p style = {{width:'65%'}}>
                      I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor of Computer Technology Development
                     <br/>
-                     I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor of Computer Technology Development
-                     <br/>
+                    
                      </p>
                      <p>
                      Programming Languages I often uses: <b>
