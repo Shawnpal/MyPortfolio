@@ -11,7 +11,7 @@ class About extends Component {
             <img
               src="https://github.com/Shawnpal/MyPortfolio/blob/master/src/components/Imgs/AboutMe.jpg?raw=true"
               alt="avatar"
-              style={{height: '200px'}}
+              style={{height: '42em',width:'53em', margin:'auto',paddingTop:"3em"}}
                />
           </div>
 
