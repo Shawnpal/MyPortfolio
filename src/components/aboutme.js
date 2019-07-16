@@ -9,7 +9,7 @@ class About extends Component {
         <Cell className ="aboutme-left-col" col={6}>
           <div style={{textAlign: 'center'}}>
             <img
-              src=""
+              src="https://github.com/Shawnpal/MyPortfolio/blob/master/src/components/Imgs/AboutMe.jpg?raw=true"
               alt="avatar"
               style={{height: '200px'}}
                />
