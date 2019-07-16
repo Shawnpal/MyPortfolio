@@ -27,9 +27,19 @@ class About extends Component {
                      buying, testing, evaluating and learning about new technology. Prehaps that's why I got into IT & software development. When I'm not working
                      I'm usually working on my own projects. </p>
                      <p style = {{width:'65%'}}>
-                     I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor Program Wireless and Mobile Development
+                     I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor of Computer Technology Development
+                    <br/>
+                     I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor of Computer Technology Development
+                     <br/>
                      </p>
-
+                     <p>
+                     Programming Languages I often uses: <b>
+                     Python,
+                     C++,
+                     C#,
+                     Java
+                     </b>
+                     </p>
 
 
           </Cell>
