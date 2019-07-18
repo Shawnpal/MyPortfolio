@@ -29,7 +29,7 @@ class About extends Component {
                      <p style = {{width:'65%'}}>
                      I graduated of the Industrial instrumentation program at BCIT but I also hold a Computer Science Diploma. Currently a Part time Student of Bachelor of Computer Technology Development
                     <br/>
-                    
+
                      </p>
                      <p>
                      Programming Languages I often uses: <b>

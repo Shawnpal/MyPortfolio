@@ -25,9 +25,7 @@ class Resume extends Component {
           <p>Desktop Support Analyst at Shaw Communications.</p>
           <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           <h5>Address</h5>
-          <p>15720 96A Ave</p>
-          <h5>Phone</h5>
-          <p>(778) 985-3151</p>
+          <p>Vancouver</p>
           <h5>Email</h5>
           <p>ShawnChen1915@gmail.com</p>
 
